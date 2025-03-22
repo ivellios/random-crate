@@ -1,0 +1,44 @@
+bag:
+  gear:
+    max_count: 2
+    chance: 50
+  wealth: 40
+  books: 10
+  ingredients: 20
+  meals: 10
+  drinks: 10
+barrel:
+  gear:
+    max_count: 2
+  wealth: 50
+  books: 10
+  ingredients: 50
+  meals: 10
+  drinks: 60
+basket:
+  ingredients: 100
+  drinks: 20
+bookshelf:
+  books: 100
+  ingredients: 10
+  meals: 5
+  drinks: 10
+chest:
+  gear:
+  wealth: 50
+  books: 70
+  ingredients: 20
+  drinks: 40
+crate:
+  gear:
+  wealth: 35
+  books: 25
+  ingredients: 70
+  meals: 20
+  drinks: 30
+pouch:
+  gear:
+    max_count: 2
+    chance: 30
+  wealth: 50
+  ingredients: 20

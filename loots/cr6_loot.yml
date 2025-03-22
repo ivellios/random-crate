@@ -1,0 +1,9 @@
+cr: 6
+containers:
+  bag: 2
+  barrel: 5
+  basket: 4
+  bookshelf: 6
+  chest: 3
+  crate: 5
+  pouch: 3

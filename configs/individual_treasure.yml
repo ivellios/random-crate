@@ -1,0 +1,53 @@
+- cr: 0-4
+  ranges:
+    - roll: 1-30
+      cp: 5
+    - roll: 31-60
+      sp: 4
+    - roll: 61-70
+      ep: 3
+    - roll: 71-95
+      gp: 3
+    - roll: 96-100
+      pp: 1
+- cr: 5-10
+  ranges:
+    - roll: 1-30
+      cp: 4d6x100
+      ep: 1d6x10
+    - roll: 31-60
+      sp: 6d6x10
+      gp: 2d6x10
+    - roll: 61-70
+      ep: 3d6x10
+      pp: 2d6x10
+    - roll: 71-95
+      gp: 4d6x10
+    - roll: 96-100
+      gp: 2d6x10
+      pp: 3
+- cr: 11-16
+  ranges:
+    - roll: 1-20
+      cp: 4d6x100
+      gp: 1d6x10
+    - roll: 21-35
+      ep: 1d6x100
+      gp: 1d6x100
+    - roll: 35-75
+      gp: 2d6x100
+      pp: 1d6x10
+    - roll: 76-100
+      gp: 2d6x10
+      pp: 2d6x10
+- cr: 17-30
+  ranges:
+    - roll: 1-15
+      ep: 2d6x1000
+      gp: 8d6x100
+    - roll: 16-55
+      gp: 1d6x1000
+      pp: 1d6x100
+    - roll: 56-100
+      gp: 1d6x1000
+      pp: 2d6x100
